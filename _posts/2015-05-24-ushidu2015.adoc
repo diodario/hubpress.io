@@ -2,6 +2,7 @@
 :published_at: 2015-05-24
 :hp-alt-title: ushidu2015
 :keywords: 声楽,本番記
+:hp-tags: vocal,stage-record
 
 昨日は、「キラリ富士見」マルチホールというところでムジナリータ&タピーロでお世話になっている牛津佐和子先生のピアノ教室の発表会がありました。
 
