@@ -1,0 +1,6 @@
+= タイトル
+:hp-alt-title: English title
+:hp-tags: tag1,tag2,tag3
+:hp-image: header_image.png
+
+hoge
